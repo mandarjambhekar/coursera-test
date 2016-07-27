@@ -1,0 +1,35 @@
+body {
+    font-size: 16px;
+	color: #fff;
+	background-color: #61122f;
+	font-family: 'Oxygen', sans-serif;
+}
+
+/*** HEADER ***/
+#header-nav {
+	background-color: darkgray;
+	border-radius: 0;
+	border: 0;
+}
+.navbar-default .navbar-brand{
+	font-size: 24px;
+	color: #fff;
+	font-weight: 600;
+	text-shadow: 4px 4px 4px #000;
+}
+#nav-list a {
+	color:crimson;
+	font-size: 22px;
+	text-align: center;
+}
+#nav-list a:hover{
+	background: #E7E7E7;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar{
+	border: 1px solid #61122f;
+}
+.longSection{
+	background: darkgray;
+	margin: 1%;
+	padding: 5%;
+}
